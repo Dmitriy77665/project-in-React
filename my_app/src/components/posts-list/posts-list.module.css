@@ -1,0 +1,12 @@
+.item {
+    list-style: none;
+    max-width: 900px;
+    text-align: initial;
+}
+
+.input {
+    padding: 5px 10px;
+    height: 20px;
+    width: 200px;
+    margin-right: 20px;
+}
